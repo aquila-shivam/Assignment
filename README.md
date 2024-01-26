@@ -1,6 +1,6 @@
-# Your Project Name
+# Task
 
-Brief description of your project.
+This is a curd django application 
 
 ## Prerequisites
 
